@@ -27,7 +27,7 @@ const joinVC = require('./join-vc');
  */
 client.once('ready', () =>{
   // on message to show that it is working
-  console.log('Kinky Jadon has awoken!');
+  console.log('bot has awoken!');
     
   // adding function calls so the bot uses the functions we created
   /* Example */
@@ -37,4 +37,4 @@ client.once('ready', () =>{
 })
 
 // This stays as the last line
-client.login('ODU3MzkyOTcwNzg5OTQ1MzQ2.YNO7bQ.BwXzdC1TdfSnQwe_8KqOcb2JwO4');
+client.login('token');
