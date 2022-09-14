@@ -1,0 +1,23 @@
+{
+  "name": "test-dummy",
+  "version": "1.0.0",
+  "description": "Jadon and I's discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeakyToaster/discordbot.git"
+  },
+  "author": "Jadon Yack, Ethan Holroyd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeakyToaster/discordbot/issues"
+  },
+  "homepage": "https://github.com/LeakyToaster/discordbot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ytdl-core-discord": "^1.3.1"
+  }
+}
